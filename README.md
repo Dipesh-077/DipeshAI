@@ -18,3 +18,6 @@ Your personal AI assistant built with Next.js and TypeScript.
 ## 📦 Installation
 ```bash
 pnpm install
+
+for live demo you can check this(https://v0-ai-chatbot-flame-nine.vercel.app/)
+
